@@ -41,10 +41,6 @@ Below are the images that highlight key moments and outputs from the exercise. Y
 
 9. **Console Screenshot 9**  
    ![Console Output Example 9](https://github.com/Ningsang-Jabegu/M1-W3-D1-Javascript-Exercise/blob/main/M1-W3-D1%20Javascript%20Exercise/demo1w9.JPG)  
-   _Description: Using `||` (OR) operator in `if-else` statement._
-
-10. **Console Screenshot 10**  
-   ![Console Output Example 10](https://github.com/Ningsang-Jabegu/M1-W3-D1-Javascript-Exercise/blob/main/M1-W3-D1%20Javascript%20Exercise/demo1w10.JPG)  
    _Description: Basic use of `switch-case` in JavaScript._
 
 ## About the Bootcamp
